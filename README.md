@@ -1,7 +1,7 @@
 ### hey dear<!--
-**erickwoz/erickwoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Erick a security researcher<.
 
-Here are some ideas to get you started:
+Here is where I'm at:
 
 - 🔭 I’m currently working on Troware...
 - 🌱 I’m currently learning Kotlin...
